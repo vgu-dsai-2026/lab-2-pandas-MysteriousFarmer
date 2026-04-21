@@ -1,0 +1,5 @@
+name,label,score,high_score,score_scaled
+cat_1,cat,0.91,True,91.0
+dog_1,dog,0.12,False,12.0
+cat_2,cat,0.85,True,85.0
+dog_2,dog,0.33,False,33.0
